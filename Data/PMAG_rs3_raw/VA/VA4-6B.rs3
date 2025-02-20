@@ -1,0 +1,10 @@
+Name      Site      Latitude  Longitude  Height    Rock           Age  Fm SDec  SInc  BDec  BInc  FDec  FInc  P1 P2 P3 P4 Note
+va4-6b                                                                    304   84    30    131               3  0  3  90     
+ID Step[mT]         M[A/m]   Dsp   Isp   Dge   Ige   Dtc   Itc   Dfc   Ifc   Prec    K[e-06 SI] Limit1    Limit2    Note      
+N  0                 0.1212  22.3 -58.2   4.6   6.3  52.0  14.4               1.0                                             
+A  150               0.0586 346.1 -55.4 359.6 -12.8  40.6  31.2               1.0                                             
+A  250               0.0272  21.2 -46.4 353.3   9.9  63.2  19.4               1.0                                             
+A  350               0.0215  68.2 -26.2   1.7  51.5  85.1 -16.9               1.0                                             
+A  500               0.0096  36.7 -27.1 339.5  28.8  85.4  11.2               1.0                                             
+A  550               0.0079  79.7 -20.4  13.3  61.7  89.0 -28.4               1.0                                             
+C  b           2.939744E-02 314.3 -48.0 359.9 -33.6  18.7  42.8               5.0               150mT     350mT               
